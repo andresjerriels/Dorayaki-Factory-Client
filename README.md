@@ -1,5 +1,5 @@
-# Tugas Besar 2 - Web Services Using ReactJS
-Dorayaki Factory Client<br>
+# Dorayaki Factory Client
+Tugas Besar 2 - Web Services Using ReactJS<br>
 IF3110 - Pengembangan Perangkat Lunak Berbasis Web
 
 ## Table of Contents
